@@ -1,2 +1,6 @@
-package com.hsan.tuntrust.model;public enum TypePaysEnregistrement {
+package com.hsan.tuntrust.model;
+
+public enum TypePaysEnregistrement {
+    ETAT,
+    PROVINCE
 }
